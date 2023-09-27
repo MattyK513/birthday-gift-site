@@ -19,3 +19,5 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
+
+Hey there, GitHub! Just editing this so I can learn how to pull the changes onto my local repository. Peace out!
